@@ -8,8 +8,6 @@ describe('Eduki demo', ()=> {
 
         browser.setWindowSize(width, height)
 
-        // await browser.url('https://eduki.com/de')
-
         await Page.open('de')
 
         // Open the Bestseller page
