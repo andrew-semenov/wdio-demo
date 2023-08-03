@@ -8,9 +8,9 @@ class DeutschPage extends Page {
     async openBestsellerPage() {
         await this.navBestseller.click()
     }
+
     open() {
         return super.open('de');
-
     }
 }
 
