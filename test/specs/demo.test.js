@@ -1,4 +1,3 @@
-// import Page from '../pageobjects/page.js'
 import DeutschPage from '../pageobjects/deutsch.page.js'
 import BestsellerPage from '../pageobjects/bestseller.page.js'
 
